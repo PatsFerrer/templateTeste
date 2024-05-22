@@ -1,0 +1,16 @@
+CODEOWNERS  @PatsFerrer
+
+# Workflow folder
+.github/workflows/*  @PatsFerrer
+
+# IAC folder
+iac/  @PatsFerrer
+
+# Definindo o responsável pelo README.md
+README.md @PatsFerrer
+
+# Definindo o responsável pelo arquivo LICENSE
+LICENSE @PatsFerrer
+
+# Definindo o responsável por todo o repositório
+* @PatsFerrer
