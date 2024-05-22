@@ -1,0 +1,3 @@
+Após mudar a configuração do repositório em: Settings -> Branchs -> e adicionar segurança na branch main.
+
+Estou criando esse teste.txt em uma nova branch, para que seja obrigatório fazer pull request para a main, tornando assim mais seguro.
